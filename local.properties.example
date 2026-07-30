@@ -1,0 +1,9 @@
+# local.properties — يُنشأ تلقائياً عند أول Gradle Sync في Android Studio.
+# ضع مسار Android SDK عندك هنا.
+# مثال على Linux/macOS:
+# sdk.dir=/Users/yourname/Library/Android/sdk
+# مثال على Windows:
+# sdk.dir=C\:\\Users\\yourname\\AppData\\Local\\Android\\Sdk
+
+# ملاحظة: هذا الملف يُتجاهل في Git (.gitignore يحتوي عليه)
+# لا تشاركه أو تنسخه إلى فريق — كل مطور يحتاج مسار SDK خاص به.
